@@ -1,4 +1,4 @@
-package my.creations.dbexporter;
+package my.creations.dbexporter.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
